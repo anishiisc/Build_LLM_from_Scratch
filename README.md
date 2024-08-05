@@ -14,3 +14,7 @@ A notebook based tutorial series on buildling a LLM from scratch
 
 ###  LLM_2_Byte Pair Encoding
 In the first notebook, we discussed how to develop a Word Tokenizer step by step. In this notebook we will demonstrate The next step before we can finally create the embeddings for the LLM, which  is to generate the input-target pairs required for training an LLM.
+
+
+###  LLM_3_Data Loader
+In this notebook we explain the concept of Dataset Class and Data Loader in pytorch. We also explain with a series of examples how the X data and traget sequence of tokens are generated for creating a next word predictor 
