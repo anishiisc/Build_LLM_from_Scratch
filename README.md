@@ -18,3 +18,8 @@ In the first notebook, we discussed how to develop a Word Tokenizer step by step
 
 ###  LLM_3_Data Loader
 In this notebook we explain the concept of Dataset Class and Data Loader in pytorch. We also explain with a series of examples how the X data and traget sequence of tokens are generated for creating a next word predictor 
+
+
+###  LLM_4 Embeddings 
+In this notebooks ; we explain the concept of word embeddings and how both tokens and token positions are accounted for through embeddings as input for the train process , through initial randomly generated embedding weights.
+
