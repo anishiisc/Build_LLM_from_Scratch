@@ -23,3 +23,5 @@ In this notebook we explain the concept of Dataset Class and Data Loader in pyto
 ###  LLM_4 Embeddings 
 In this notebooks ; we explain the concept of word embeddings and how both tokens and token positions are accounted for through embeddings as input for the train process , through initial randomly generated embedding weights.
 
+###  LLM_5 Self Attention  
+In this notebooks ; We describe step by step the implementation of a simple self attention concept. 
