@@ -25,3 +25,6 @@ In this notebooks ; we explain the concept of word embeddings and how both token
 
 ###  LLM_5 Self Attention  
 In this notebooks ; We describe step by step the implementation of a simple self attention concept. 
+
+###  LLM_6 Self Attention  with trainable weigts 
+In this notebooks ; We describe step by step the implementation of a self attention with trainable weights, wherein we show how Query , Key and Value vectors are utilized in computing a context vector 
